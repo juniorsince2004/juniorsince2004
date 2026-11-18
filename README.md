@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh</h1>
 <h3 align="center">A data scientist enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **6**
 
 - 🌱 I’m currently learning **Front end web development and back end web development.**
 
